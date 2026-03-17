@@ -1,0 +1,2 @@
+_target_: py123d.conversion.log_writer.navsim_writer.NavsimWriter
+output_dir: ${common.dataset_paths.output_dir}/navsim_format
